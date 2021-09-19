@@ -1,3 +1,17 @@
+
+- [Monitoring with AWS CloudWatch](#monitoring-with-aws-cloudwatch)
+  - [Create a launch template](#create-a-launch-template)
+  - [App and db Instances](#app-and-db-instances)
+  - [Create Auto Scaling Group](#create-auto-scaling-group)
+    - [Step 1 Choose launch template or configuration](#step-1-choose-launch-template-or-configuration)
+    - [Step 2 Configure settings](#step-2-configure-settings)
+    - [Step 3 Configure advanced settings](#step-3-configure-advanced-settings)
+    - [Step 4](#step-4)
+    - [Step 5](#step-5)
+    - [Step 6](#step-6)
+  - [Viewing your Auto Scaling Group](#viewing-your-auto-scaling-group)
+  - [SNS Notifications](#sns-notifications)
+
 # Monitoring with AWS CloudWatch
 ![](img/Autoscaling_diagram.png)
 
