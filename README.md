@@ -1,3 +1,5 @@
+# Monitoring with AWS CloudWatch
+![](img/Autoscaling_diagram.png)
 
 - [Monitoring with AWS CloudWatch](#monitoring-with-aws-cloudwatch)
   - [Create a launch template](#create-a-launch-template)
@@ -12,8 +14,7 @@
   - [Viewing your Auto Scaling Group](#viewing-your-auto-scaling-group)
   - [SNS Notifications](#sns-notifications)
 
-# Monitoring with AWS CloudWatch
-![](img/Autoscaling_diagram.png)
+Tasks:
 
 Scalability with Autoscaling group and Highly availability with ALB Application Load Balancer
 
@@ -23,9 +24,8 @@ Scalability with Autoscaling group and Highly availability with ALB Application 
 - create a load balancer to balance the load in case of traffic increase or decrease
 
 - Create Diagram for each step and Diagram for entire project/process
-- share you repos at 11:30 with initial progress - - share the progress before lunch 1300 then at 1700
 
-= Second Iteration - SNS to send notification email/message 
+- Second Iteration - SNS to send notification email/message 
 
 ## Create a launch template
 - Click on `Launch Templates` on the side tab
